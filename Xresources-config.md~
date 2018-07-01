@@ -1,9 +1,0 @@
-# ~/Documents/manjaro-config/Xresources-config.txt
-
-
-make changes in ~/.Xresources
-
-```
-*cursorColor: #107c10
-XTerm*pointerColor: #107c10
-```
