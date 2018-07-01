@@ -4,7 +4,7 @@
 make changes in ~/.Xresources
 
 ```
-URxvt.font:  xft:TreminessTTFNerdFontMono:size=10
+URxvt.font:  xft:TerminessTTFNerdFontMono:size=10
 ```
 
 ```
