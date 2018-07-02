@@ -1,6 +1,14 @@
 # do this in i3 config file: ~/.i3/config
 manjaro alias to open it with nano is 'con' in terminal
 
+change window title font:
+
+```
+# Font for window titles. Will also be used by the bar unless a different font
+# is used in the bar {} block below.
+font Consolas-8:xft:URWGothic-Book 11
+```
+
 change workspace icons with font awesome:
 add font awesome to i3bar:
 ```
@@ -109,6 +117,6 @@ exec --no-startup-id start_conky_xbox
 
 # Set inner/outer gaps
 gaps inner 5
-gaps outer 0
+gaps outer -2
 ```
 
