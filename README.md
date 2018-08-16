@@ -7,3 +7,6 @@ trying to save all the changes made to my Manjaro-Linux with i3 window manager
 * For ranger:
   * highlight (for highlighting code-files)
   * atool (for previewing archives)
+
+* For okular:
+  * ebook-tools (for opening .epub-files)
